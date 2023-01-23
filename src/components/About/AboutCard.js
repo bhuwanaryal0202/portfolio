@@ -10,7 +10,7 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Bhuwan Aryal </span>
             from <span className="purple"> Melbourne, Australia.</span>
-            <br />I am Front end developer and a tech enthusiast.
+            <br />I am Front-end developer and a tech enthusiast.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!

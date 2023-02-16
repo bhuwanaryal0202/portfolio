@@ -11,11 +11,15 @@ import {
   SiFirebase,
   SiNextdotjs,
   SiTailwindcss,
+  SiTypescript
 } from "react-icons/si";
 
 function Techstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
+       <Col xs={4} md={2} className="tech-icons">
+        <SiTypescript />
+      </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiJavascript1 />
       </Col>

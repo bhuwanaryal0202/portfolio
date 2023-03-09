@@ -11,7 +11,8 @@ import {
   SiFirebase,
   SiNextdotjs,
   SiTailwindcss,
-  SiTypescript
+  SiTypescript,
+  SiBootstrap
 } from "react-icons/si";
 
 function Techstack() {
@@ -44,6 +45,10 @@ function Techstack() {
       <Col xs={4} md={2} className="tech-icons">
         <SiTailwindcss />
       </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiBootstrap />
+      </Col>
+      
       
       
     </Row>
